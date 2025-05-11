@@ -1,0 +1,51 @@
+id,name,type,premium
+LOGI0000,Davis LLC,normal,True
+LOGI0001,Beck-Buchanan,express,False
+LOGI0002,Johnson and Sons,normal,False
+LOGI0003,Miller-Malone,express,False
+LOGI0004,"Woodard, Stout and Miller",normal,True
+LOGI0005,Ray Inc,express,False
+LOGI0006,Morales-Santos,express,True
+LOGI0007,"Jackson, Hawkins and Wood",express,False
+LOGI0008,Mills-Munoz,express,True
+LOGI0009,"White, Thompson and White",express,False
+LOGI0010,Miller and Sons,normal,False
+LOGI0011,"Smith, Ramirez and Hawkins",express,True
+LOGI0012,"Edwards, Garcia and Blanchard",express,False
+LOGI0013,"Osborne, Evans and Chapman",normal,False
+LOGI0014,"Fox, Williams and Benitez",normal,False
+LOGI0015,Santiago Group,normal,False
+LOGI0016,Matthews Ltd,normal,False
+LOGI0017,Sullivan-Ramirez,express,False
+LOGI0018,"Nguyen, Garcia and Sanchez",normal,False
+LOGI0019,Smith LLC,express,False
+LOGI0020,Lewis PLC,express,False
+LOGI0021,George-Davis,express,False
+LOGI0022,Bailey Group,normal,False
+LOGI0023,Alexander Group,express,False
+LOGI0024,Morgan Ltd,normal,False
+LOGI0025,"Middleton, Smith and Howard",normal,True
+LOGI0026,Smith Group,express,True
+LOGI0027,Hernandez-Howard,normal,False
+LOGI0028,"Jackson, Stafford and Rodgers",express,True
+LOGI0029,Hill-Hartman,normal,True
+LOGI0030,Perez-Sherman,express,False
+LOGI0031,Sanford LLC,express,False
+LOGI0032,Grant Ltd,express,True
+LOGI0033,Wade-Martinez,normal,True
+LOGI0034,Walls-Olson,express,True
+LOGI0035,Gomez-Franklin,normal,True
+LOGI0036,Summers LLC,normal,True
+LOGI0037,"Thompson, Perez and Wright",express,True
+LOGI0038,Olson-Watts,express,False
+LOGI0039,"Keller, Brown and Vincent",express,False
+LOGI0040,"Horn, Lopez and Gonzales",normal,False
+LOGI0041,"Kline, Lewis and Willis",express,True
+LOGI0042,Johnson-Gilbert,normal,False
+LOGI0043,Jackson and Sons,express,False
+LOGI0044,Freeman-Nguyen,express,False
+LOGI0045,"Owens, Roberts and Boyd",normal,False
+LOGI0046,Gomez Inc,normal,True
+LOGI0047,Garcia-Boone,normal,True
+LOGI0048,Simmons-Shah,normal,True
+LOGI0049,Jackson-Mason,normal,False

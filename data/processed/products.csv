@@ -1,0 +1,1001 @@
+id,name,brand,tr_flag
+P00000,Offer,Reyes LLC,False
+P00001,Response,Cisneros Ltd,True
+P00002,Tough,"Michael, Tran and Hodges",True
+P00003,Another,"Klein, Compton and Miranda",False
+P00004,Box,Thompson-Woods,True
+P00005,Strategy,Garcia LLC,False
+P00006,Over,"Sparks, Bray and Allen",False
+P00007,Remember,Harper and Sons,True
+P00008,Professor,Martin-Watson,True
+P00009,Return,"Ellis, West and Barnes",False
+P00010,Show,"Grant, Smith and Reynolds",False
+P00011,Base,Black-Villegas,True
+P00012,Trip,"Davis, Castro and Harvey",True
+P00013,Such,Garcia Ltd,True
+P00014,Suggest,Ware LLC,False
+P00015,Unit,"Duncan, Rosales and Hicks",True
+P00016,Hit,"Deleon, Proctor and Jones",False
+P00017,Reach,Nguyen LLC,False
+P00018,Impact,"Sanchez, Ryan and Potter",False
+P00019,Participant,"Mullins, Foster and Thompson",True
+P00020,Property,Hart-Schmidt,False
+P00021,Even,"Klein, Young and Adams",True
+P00022,Member,"Sherman, Reyes and Martinez",True
+P00023,Begin,"Acosta, Lane and Brown",True
+P00024,Organization,"Singleton, Carey and Carrillo",True
+P00025,Quality,Martin-Hampton,True
+P00026,Gas,Jones Inc,False
+P00027,Ago,Anderson-Sharp,False
+P00028,Plan,Henderson-Coleman,True
+P00029,Try,"Walsh, Hicks and Alvarado",False
+P00030,Age,Anderson PLC,False
+P00031,Service,Price-Garcia,False
+P00032,Main,Craig Ltd,False
+P00033,They,Sanchez Group,True
+P00034,Deal,Velazquez Ltd,True
+P00035,Effect,Mason-Townsend,True
+P00036,Heavy,Medina Group,True
+P00037,Cell,Knight Group,True
+P00038,Cell,Chambers and Sons,False
+P00039,Benefit,"Bolton, Cunningham and Bradford",True
+P00040,Visit,Martinez Ltd,False
+P00041,Fish,Pennington and Sons,True
+P00042,For,"Morrison, Clark and Vance",True
+P00043,Wonder,Anderson Ltd,True
+P00044,Traditional,Taylor Ltd,True
+P00045,Ball,Rodgers Group,True
+P00046,Give,"Bennett, Guerra and Grimes",False
+P00047,Step,Morrison Inc,False
+P00048,Source,Baker Group,False
+P00049,Per,Miller Ltd,False
+P00050,Whatever,Adams Ltd,True
+P00051,Hotel,"Burke, Howell and Olsen",False
+P00052,Decade,"Cruz, Hopkins and Davis",True
+P00053,Improve,Gomez-Taylor,True
+P00054,Alone,Burgess Ltd,False
+P00055,Hospital,"Brown, Hawkins and Kirk",False
+P00056,Choice,Clayton-Duke,True
+P00057,Happy,"Bush, Spencer and Curtis",True
+P00058,Fund,Heath-Patrick,False
+P00059,Raise,"Lam, Herrera and Bates",True
+P00060,Production,"Mcgee, White and Stewart",True
+P00061,Hundred,Perez Group,True
+P00062,Activity,"Conley, Quinn and Byrd",False
+P00063,Growth,Robertson-Webb,False
+P00064,Certainly,Robinson Inc,False
+P00065,Who,"Nielsen, Lawson and Cross",False
+P00066,Tell,Proctor PLC,False
+P00067,Southern,Collins Group,False
+P00068,Sea,Johnson-Williams,True
+P00069,Prevent,"Smith, Erickson and Williams",False
+P00070,Rock,"Solis, Brown and Waters",True
+P00071,Way,"Dunn, Powers and Johnson",True
+P00072,Company,Dominguez-Reed,False
+P00073,Need,Smith PLC,False
+P00074,Compare,Landry LLC,True
+P00075,Lot,Morgan and Sons,True
+P00076,Wide,"Burns, Gilmore and Wilson",False
+P00077,Cause,Case Inc,True
+P00078,Pull,Jones-Miller,False
+P00079,Major,Lopez-Pacheco,True
+P00080,Scientist,Lynch PLC,False
+P00081,Sometimes,Campbell-Moreno,False
+P00082,Down,Cobb-Zuniga,True
+P00083,Decide,"Moore, Martin and Stone",False
+P00084,Scientist,"Williams, Lawson and Arellano",True
+P00085,Face,"Singleton, Bean and Marshall",False
+P00086,Throw,"Hall, Travis and Ellis",False
+P00087,View,"Gonzalez, Williams and Smith",False
+P00088,Agree,Myers-Joseph,True
+P00089,Green,Charles LLC,False
+P00090,Hard,Lewis-Murphy,False
+P00091,War,Pacheco LLC,True
+P00092,Score,Greer-Campbell,True
+P00093,College,Smith-Rhodes,True
+P00094,Media,"Jimenez, Randolph and Wolf",True
+P00095,Take,Oneill-Gill,True
+P00096,Share,"Johnson, Obrien and Booth",True
+P00097,Sea,"Anderson, Cook and Delgado",True
+P00098,Suddenly,Davis-Mason,False
+P00099,Man,"Gallegos, Howard and Thompson",False
+P00100,Tell,Mosley-Barrett,True
+P00101,Social,Buchanan-Neal,True
+P00102,Democratic,"Berry, Rogers and Smith",True
+P00103,Realize,Waller Ltd,False
+P00104,Above,"Schneider, Delacruz and Williams",True
+P00105,Oil,Gutierrez-Simmons,False
+P00106,Within,"Mathews, Thomas and Lane",True
+P00107,Social,King-Johnson,False
+P00108,Approach,"Wilson, Meyers and Mcneil",False
+P00109,Feeling,"Thomas, Potter and Castillo",True
+P00110,Cause,"Morris, Cabrera and Solis",False
+P00111,Activity,"Hunt, Moore and Davis",False
+P00112,Option,"Garcia, Howard and Park",True
+P00113,Both,Martin and Sons,False
+P00114,Family,"Francis, Herrera and Cummings",True
+P00115,Field,"Brewer, Avery and Johnson",True
+P00116,Natural,Hill-Graham,True
+P00117,Allow,Walker LLC,True
+P00118,Use,"Smith, Davis and Hester",False
+P00119,Fund,Andrews Inc,True
+P00120,Rate,Williams PLC,False
+P00121,We,"Williams, Matthews and Holland",True
+P00122,Recent,Terrell-Bryan,True
+P00123,Describe,Gilbert PLC,False
+P00124,Middle,Humphrey and Sons,True
+P00125,Theory,Olson-Johnson,False
+P00126,Difference,"Robinson, Perkins and Duran",True
+P00127,World,Benitez Ltd,True
+P00128,Pattern,Smith LLC,False
+P00129,Great,Sanchez-Daniels,True
+P00130,Price,"Ryan, Moreno and Williams",True
+P00131,Their,Stephenson-Newton,True
+P00132,Second,Hayes-Leach,False
+P00133,Exist,"Turner, Fitzgerald and Wilson",True
+P00134,Player,Dawson Group,False
+P00135,Manage,"Williams, Cruz and Henson",True
+P00136,Eight,"Webb, Lewis and Robinson",False
+P00137,Mouth,Lee LLC,True
+P00138,System,"Jimenez, Bird and Mcconnell",False
+P00139,Major,Davis-Evans,False
+P00140,Left,Padilla Ltd,False
+P00141,Approach,Perkins-Brooks,True
+P00142,Sing,Bray LLC,False
+P00143,Present,Robinson Group,False
+P00144,Visit,Campbell-Reid,False
+P00145,Fall,"Duran, Bell and Phillips",False
+P00146,Gas,"Vazquez, Rogers and Carter",True
+P00147,Manager,Graham-Taylor,False
+P00148,Design,Osborn-Miller,True
+P00149,Everyone,Hill-Hansen,True
+P00150,Thousand,Pena LLC,True
+P00151,Home,"Hudson, Bryant and Benjamin",True
+P00152,Include,"Benitez, Adams and Jones",False
+P00153,Or,Terrell-Smith,True
+P00154,Camera,Larsen PLC,True
+P00155,Region,Duke-Dominguez,True
+P00156,Conference,Scott-Huber,False
+P00157,Family,Bowen-Tate,False
+P00158,Represent,Flores-Rodriguez,True
+P00159,Hear,"Collins, Holmes and Foster",False
+P00160,Writer,Williams Inc,True
+P00161,Situation,Welch-Walter,False
+P00162,Former,"Davidson, Barr and James",False
+P00163,Dinner,Wilson and Sons,False
+P00164,Same,"Mcdonald, Campbell and Kennedy",True
+P00165,Project,"Parker, Salas and Clark",True
+P00166,Southern,Copeland Inc,True
+P00167,Structure,Pham-Ortega,True
+P00168,Perhaps,Brooks-Jenkins,False
+P00169,Yeah,"Thomas, Palmer and Barnes",False
+P00170,Become,"Sosa, White and Carlson",True
+P00171,Hot,Vasquez-Williams,True
+P00172,Piece,Andersen-Todd,False
+P00173,Apply,Benson PLC,False
+P00174,Citizen,Salazar Ltd,True
+P00175,Company,"Smith, Curry and Paul",False
+P00176,Cultural,Brown-Ortega,True
+P00177,North,Williams LLC,False
+P00178,Keep,Sandoval-Ramsey,True
+P00179,Or,Reid Inc,True
+P00180,Pull,"George, Collier and Harris",True
+P00181,Perform,Watkins Ltd,True
+P00182,Modern,"Smith, Sherman and Austin",False
+P00183,What,Orozco LLC,False
+P00184,Clear,Powers Group,False
+P00185,Continue,Castro LLC,False
+P00186,Student,"Adams, Baker and Miller",False
+P00187,Lot,Cain-Miller,True
+P00188,Sign,Garrett-Brown,False
+P00189,Own,Jones-Hernandez,False
+P00190,Big,"Walters, Smith and Zimmerman",True
+P00191,Four,Hanna Inc,False
+P00192,Tonight,"Lewis, Lee and Mckay",False
+P00193,My,Decker Group,True
+P00194,Rock,Smith-Martinez,False
+P00195,Candidate,Miller-Thomas,True
+P00196,Trouble,Johnson and Sons,True
+P00197,Far,Clark Group,False
+P00198,Let,White and Sons,True
+P00199,Hear,Mcclure Inc,False
+P00200,First,Johnson Inc,False
+P00201,Before,Moore-Sanders,False
+P00202,Century,Torres Inc,False
+P00203,Body,Brandt LLC,False
+P00204,Right,Diaz-Weaver,False
+P00205,Image,Long Group,False
+P00206,Simply,Rice LLC,False
+P00207,Skin,"Young, Smith and Gray",True
+P00208,Million,"Allen, Pearson and Robinson",False
+P00209,Big,"Powers, Brown and Miller",True
+P00210,Kitchen,Washington PLC,True
+P00211,Finish,"Owens, Davis and Carter",True
+P00212,Final,"Holmes, Bass and Thomas",False
+P00213,Own,Sutton-Landry,False
+P00214,Win,Bryant and Sons,True
+P00215,My,"Ramirez, Patel and Crawford",True
+P00216,Through,Oliver Ltd,True
+P00217,Upon,"Manning, Smith and Pham",False
+P00218,Political,"Lloyd, Warren and Berry",True
+P00219,Five,"Brown, Powers and Johnson",True
+P00220,Event,Williams Inc,False
+P00221,College,"Fischer, Dudley and Bates",True
+P00222,Stay,Carter LLC,True
+P00223,Determine,Wheeler-Black,True
+P00224,Parent,"Roth, Lewis and Rivera",False
+P00225,Open,"Adkins, Bowman and Vazquez",True
+P00226,However,"Hill, Newman and Baker",True
+P00227,Before,Ramirez-Moreno,True
+P00228,Surface,"Cook, Fowler and Branch",True
+P00229,Animal,Ward-White,True
+P00230,Quite,Taylor Inc,False
+P00231,Whether,Dunn Group,True
+P00232,Especially,"Rose, Alvarez and Drake",True
+P00233,We,Davis LLC,False
+P00234,Local,Hayes LLC,False
+P00235,Dog,Ramsey-Barr,False
+P00236,Never,Hughes Inc,False
+P00237,Three,"Silva, Mcgrath and Christensen",False
+P00238,From,Smith-Johnson,True
+P00239,Then,Blake-Welch,True
+P00240,Three,Love LLC,False
+P00241,Network,Harris Ltd,True
+P00242,High,Taylor-Fisher,False
+P00243,Recently,"Burton, Lucas and Johnson",True
+P00244,Success,"Chavez, Fleming and Ortiz",True
+P00245,At,"Valentine, Kelly and Donaldson",True
+P00246,Series,Porter Group,False
+P00247,A,Thompson and Sons,False
+P00248,Congress,"Villarreal, Stone and Vargas",True
+P00249,Yard,"Ellis, Allen and Key",False
+P00250,Knowledge,"Mooney, Mueller and Gross",False
+P00251,Couple,Lee PLC,False
+P00252,Many,Mills LLC,True
+P00253,Life,Cobb-Gonzalez,False
+P00254,Step,Herrera Group,False
+P00255,It,Herring-Williams,False
+P00256,Thousand,Weaver-Smith,True
+P00257,Nature,Gallagher Inc,True
+P00258,Very,Mckenzie-Hill,True
+P00259,Those,"Gibson, Harrington and Waters",False
+P00260,Wife,Perkins-Long,False
+P00261,Enough,Mitchell PLC,True
+P00262,Sometimes,"Cooper, Berry and Murphy",False
+P00263,Positive,"Hall, Deleon and Rogers",True
+P00264,Rich,"Mcdonald, Hughes and Nash",False
+P00265,Song,Mccall and Sons,True
+P00266,Break,Hickman-Arnold,False
+P00267,Begin,"Mcgee, Hendricks and Lowe",True
+P00268,Raise,Wood-Bennett,False
+P00269,Spend,Lam Inc,False
+P00270,Recent,"Cruz, Sullivan and Tran",True
+P00271,Color,"Miller, Wilson and Aguilar",True
+P00272,Open,"Burnett, Floyd and Stephens",False
+P00273,Responsibility,"Lawson, Valdez and Stone",True
+P00274,Go,"Mclean, Palmer and Baker",False
+P00275,Build,Park-Cox,True
+P00276,Think,Briggs Inc,True
+P00277,Have,Hahn and Sons,True
+P00278,Sense,Raymond-Shah,True
+P00279,Various,"Henderson, Gallagher and Trujillo",True
+P00280,People,"Hamilton, Davis and White",True
+P00281,Current,Price-Johnson,False
+P00282,According,Bartlett and Sons,False
+P00283,Middle,"Carroll, Brown and Hudson",False
+P00284,Recent,Reyes Group,True
+P00285,Use,"Fernandez, Owen and Nixon",True
+P00286,Mouth,Fox-Washington,False
+P00287,Traditional,"Patterson, Warner and Williams",True
+P00288,Total,Rodriguez Ltd,False
+P00289,Drop,"Campbell, Henderson and Kidd",False
+P00290,Strong,Davis Ltd,False
+P00291,Shoulder,"Young, Kelley and Kemp",False
+P00292,Us,Martin and Sons,True
+P00293,Tend,Beard-Lowe,False
+P00294,A,"Robinson, Johnson and Patel",False
+P00295,Loss,Young Group,True
+P00296,Inside,Goodwin LLC,True
+P00297,Everyone,Church LLC,True
+P00298,Food,Ross PLC,True
+P00299,Almost,"Lindsey, Carroll and Combs",False
+P00300,Tonight,Small-Powell,False
+P00301,Day,Rodriguez Inc,False
+P00302,Sort,Rios PLC,False
+P00303,Produce,Cook Ltd,True
+P00304,Production,White-Mendez,False
+P00305,Industry,"Thompson, Coffey and Coleman",True
+P00306,Pressure,Chapman-Greene,True
+P00307,Manager,"Huerta, Harrington and Harris",True
+P00308,Garden,Collins-Allen,True
+P00309,State,Nelson PLC,False
+P00310,Exist,Clark LLC,True
+P00311,Table,"Valenzuela, Williams and Jefferson",False
+P00312,Remain,"Miller, Johnson and Luna",True
+P00313,Down,"Williams, Knight and Mack",False
+P00314,Never,"Simpson, Zuniga and Holloway",False
+P00315,Real,Archer Inc,True
+P00316,Mr,Smith-Mann,False
+P00317,Event,Newman-Baldwin,False
+P00318,Technology,Zhang-Mcintyre,False
+P00319,Personal,Bryant PLC,True
+P00320,Building,Powell-Fischer,True
+P00321,Rate,"Hughes, Gonzalez and Cruz",False
+P00322,Particularly,Murphy-Johnson,False
+P00323,Explain,Francis-Knox,False
+P00324,Wonder,Blackwell PLC,True
+P00325,One,Griffin-Barton,True
+P00326,Night,Farrell-Potts,False
+P00327,Under,Mccullough Group,True
+P00328,Door,"Oliver, Graham and Velez",False
+P00329,Final,Foley LLC,True
+P00330,Live,"Wall, Simmons and Ramirez",False
+P00331,West,"Peterson, Kent and Wolf",True
+P00332,News,Mcdowell LLC,False
+P00333,Father,"Bullock, Roberson and Lawrence",False
+P00334,Home,Thomas-Berry,False
+P00335,Reduce,Edwards and Sons,True
+P00336,Participant,Serrano-Stark,False
+P00337,Mind,"Dunn, Barrett and Alexander",True
+P00338,Radio,Gray-Hahn,False
+P00339,Now,Morales-Jacobs,True
+P00340,Matter,"Yang, Sanders and Patel",True
+P00341,Democratic,"Brown, Allen and Martinez",False
+P00342,First,Small-Miller,True
+P00343,Specific,Flores-Nguyen,True
+P00344,Subject,Weaver-White,False
+P00345,Should,Wallace Inc,True
+P00346,Sit,"Patton, Lamb and Coleman",False
+P00347,Take,Brown-Hughes,True
+P00348,Rise,"Green, Clark and Dixon",True
+P00349,Include,Davis-Williams,True
+P00350,Four,"Walters, Ramirez and Nguyen",False
+P00351,Drug,Perez-Watts,True
+P00352,South,Holmes and Sons,False
+P00353,Reflect,Jackson-Brown,True
+P00354,Describe,"Barajas, Clark and Ray",True
+P00355,Mind,Gaines-Jones,True
+P00356,Agree,Briggs-Pittman,True
+P00357,Others,Gonzalez LLC,True
+P00358,Point,Cameron-Keith,False
+P00359,Win,"Smith, Espinoza and Young",False
+P00360,Animal,"Hogan, Rowland and Jimenez",True
+P00361,Their,Cole Inc,False
+P00362,Value,Garcia-Jones,False
+P00363,Republican,Gordon LLC,False
+P00364,Design,Pollard PLC,False
+P00365,Sea,Hull-Baker,False
+P00366,Cut,Conway Group,True
+P00367,Child,Garrison PLC,False
+P00368,Because,"Duncan, Barnes and Ortiz",False
+P00369,Suggest,Phillips Inc,False
+P00370,Care,Garcia Group,True
+P00371,Entire,Matthews-Gonzalez,False
+P00372,Establish,"Harris, Gibson and Caldwell",False
+P00373,Speech,Cervantes-Howell,False
+P00374,Go,"Miller, Sanders and Steele",False
+P00375,Class,"Yates, Robinson and Garcia",True
+P00376,Significant,"Simpson, Lawson and Porter",True
+P00377,Front,Taylor Ltd,False
+P00378,Hair,Brown-Aguirre,True
+P00379,Health,Reese-Flores,False
+P00380,Responsibility,Hernandez LLC,False
+P00381,Dark,"Tate, Herman and Nichols",True
+P00382,Adult,Wong Group,False
+P00383,Mouth,Stewart-Warren,True
+P00384,General,Bailey-Cox,False
+P00385,Community,Ferguson-Smith,True
+P00386,Lay,Henry PLC,True
+P00387,Wait,Lyons LLC,False
+P00388,Newspaper,"Brown, Lewis and Hampton",True
+P00389,Let,Lewis Ltd,True
+P00390,Degree,Parks-Stewart,True
+P00391,Those,Garza Inc,False
+P00392,Trip,Foster Inc,True
+P00393,Such,Graham and Sons,False
+P00394,Thousand,"Martin, Palmer and Adkins",True
+P00395,Beyond,Johnson Ltd,False
+P00396,Suddenly,Taylor Group,True
+P00397,Other,Taylor Group,False
+P00398,Likely,Simmons Group,True
+P00399,Man,Callahan-Torres,False
+P00400,Necessary,"Escobar, Tran and Patrick",False
+P00401,Street,Price and Sons,True
+P00402,Mention,"Richardson, Anderson and Miranda",False
+P00403,Hour,"Smith, Johnson and Simmons",True
+P00404,Think,"Cox, Dean and Leonard",False
+P00405,Help,Lowe-Wilson,False
+P00406,Enough,"Reeves, Garcia and Huff",False
+P00407,Example,Gomez Inc,True
+P00408,Cut,Jones-Wallace,True
+P00409,Put,"Nelson, Porter and Holloway",False
+P00410,Respond,"Clark, Randall and Lucas",False
+P00411,Yard,Welch-Avery,False
+P00412,Tend,"Garcia, Haas and Bush",True
+P00413,Upon,Jordan Inc,False
+P00414,Claim,Smith Ltd,False
+P00415,Economy,Bailey LLC,False
+P00416,Nearly,Castillo and Sons,True
+P00417,Course,Nelson Ltd,True
+P00418,Seek,Palmer Ltd,False
+P00419,Report,Vaughn PLC,True
+P00420,Bill,Smith-Tran,True
+P00421,Into,"Wilson, Santiago and Chambers",False
+P00422,Save,Chambers-Welch,False
+P00423,Interest,Baker Inc,False
+P00424,Shake,Frazier-Harvey,True
+P00425,General,Cooley Inc,False
+P00426,Loss,Williams-Parsons,True
+P00427,Mrs,"Macdonald, Lee and Collins",True
+P00428,Future,Murphy-Underwood,False
+P00429,Big,Allen LLC,True
+P00430,Executive,Hartman Group,True
+P00431,Operation,"Young, Schneider and Smith",False
+P00432,Factor,Griffin Group,True
+P00433,Know,"Black, Mcfarland and Werner",True
+P00434,Trade,"Rios, Doyle and Adkins",False
+P00435,Born,"Johnston, Wong and Allen",False
+P00436,Traditional,Chapman-Hill,False
+P00437,Collection,Allen-Russo,False
+P00438,East,Riley-Murphy,True
+P00439,Plan,Pratt-Burton,False
+P00440,Movement,Jones-Cox,False
+P00441,Meeting,"Johnson, Howe and Sullivan",True
+P00442,Television,"Allen, Wolfe and Soto",True
+P00443,Face,Martin LLC,True
+P00444,Care,Blair PLC,True
+P00445,Any,"Woodard, Nelson and White",False
+P00446,Woman,"Caldwell, Spence and Rodriguez",False
+P00447,When,"Snyder, Arroyo and Moore",False
+P00448,General,Mcdaniel-King,False
+P00449,Section,"Bass, Henry and Smith",False
+P00450,Central,Sullivan-King,True
+P00451,Condition,"Hill, Cantu and Diaz",False
+P00452,Nation,Gay PLC,True
+P00453,Push,"Todd, Reyes and Hale",False
+P00454,All,Moore PLC,True
+P00455,State,Lynch LLC,False
+P00456,System,"Avery, Rodriguez and Yu",True
+P00457,Exactly,"Contreras, Vasquez and Edwards",False
+P00458,Fear,"Nguyen, Jimenez and Flores",False
+P00459,Everything,"Thompson, Ibarra and Rangel",False
+P00460,Yeah,"Gonzales, Vargas and Lowery",False
+P00461,Consider,Edwards-Sullivan,True
+P00462,Degree,Jones-Wade,False
+P00463,Evening,"Mckay, Sanders and Williams",False
+P00464,No,"Anderson, Jones and Sims",False
+P00465,Job,"Miller, Mason and Ryan",False
+P00466,Behind,"Stephens, Edwards and Fleming",True
+P00467,Himself,Mccarty-Lopez,True
+P00468,Marriage,"Clarke, Kelley and Roberts",True
+P00469,Contain,Lutz-Bowen,True
+P00470,Radio,"Flowers, Carroll and Griffin",False
+P00471,Protect,Jenkins-Rosales,False
+P00472,Best,Daugherty Group,True
+P00473,Relate,Parker-Arnold,False
+P00474,Read,Flores Ltd,True
+P00475,Officer,"Mckay, Charles and Schmidt",False
+P00476,Bag,Caldwell and Sons,True
+P00477,Push,"Huerta, Ruiz and Lucas",False
+P00478,Authority,"Richardson, Mason and Ellis",True
+P00479,Community,"Hess, Silva and Brennan",False
+P00480,Executive,Evans Group,False
+P00481,Together,Webb-Evans,False
+P00482,Nothing,Mcguire and Sons,True
+P00483,System,"Singh, Hill and Smith",False
+P00484,Resource,"Wallace, Gray and Reyes",False
+P00485,Turn,Crawford-Sellers,False
+P00486,War,Schultz-Crawford,False
+P00487,Act,Barron PLC,False
+P00488,Brother,"Rodriguez, Lester and Evans",False
+P00489,Early,Johnson and Sons,False
+P00490,Medical,"Bradford, Wells and Hawkins",True
+P00491,Use,"Taylor, Cooper and Hunter",True
+P00492,American,Coleman-Stephenson,True
+P00493,Dinner,Perez PLC,False
+P00494,Last,Washington-Benitez,False
+P00495,Public,"Mosley, Wright and Edwards",False
+P00496,Pattern,"Johnson, Davis and Moody",True
+P00497,Data,"Butler, Johnson and Thompson",False
+P00498,Wrong,Vaughn-Yates,False
+P00499,Car,"Cobb, Mitchell and Henderson",False
+P00500,Model,Foster Ltd,True
+P00501,Card,Allen PLC,True
+P00502,Leave,Ramirez Group,False
+P00503,Central,"Schmidt, Rivas and Gonzalez",False
+P00504,Ten,Cook-Reeves,True
+P00505,Member,Kelley LLC,True
+P00506,Environment,Clements Group,False
+P00507,Very,Hopkins-Mitchell,True
+P00508,Consumer,Johns Inc,False
+P00509,Field,Peterson-Gonzales,True
+P00510,Security,Perez and Sons,True
+P00511,Pull,Lopez and Sons,False
+P00512,Reality,Allen-Estrada,False
+P00513,Manage,Smith-Smith,False
+P00514,Skill,"Miranda, Smith and Stewart",False
+P00515,Dream,"Rowe, Williams and Smith",True
+P00516,Perform,"Barker, Graves and Smith",False
+P00517,Position,Scott-Fritz,True
+P00518,Study,Li PLC,False
+P00519,Third,Young and Sons,False
+P00520,Later,"Lewis, Miller and Taylor",False
+P00521,Oil,Blankenship-Roach,True
+P00522,Morning,Rogers-Ramsey,False
+P00523,Event,Graham Group,True
+P00524,Discover,Cruz-Baker,True
+P00525,If,"Walker, Ford and Grant",True
+P00526,Decade,Allen LLC,False
+P00527,Character,Kelley-Bonilla,True
+P00528,Model,Burnett and Sons,False
+P00529,Wind,"Yates, Vaughn and Mccarthy",True
+P00530,Help,"Griffith, Robbins and Ruiz",True
+P00531,Its,Kennedy-Wheeler,True
+P00532,Thought,Banks Group,False
+P00533,Peace,White Group,False
+P00534,May,Gonzales-Chavez,False
+P00535,Growth,Clayton-Hines,False
+P00536,While,Small-Christian,False
+P00537,Hour,"Kelly, Williams and Ruiz",True
+P00538,Body,"Howard, Jones and Singleton",True
+P00539,Political,"Welch, Wright and Miller",False
+P00540,How,"Jensen, Gray and Berg",True
+P00541,Old,Martinez PLC,True
+P00542,Feel,May-Jarvis,True
+P00543,Should,"Kennedy, Combs and Bird",True
+P00544,Head,"Hernandez, Johnson and Washington",False
+P00545,Mouth,"Tucker, Cooley and Carrillo",True
+P00546,Employee,"Ray, Smith and Brown",False
+P00547,Pretty,"Guerra, Smith and Jarvis",False
+P00548,So,Drake LLC,True
+P00549,Eight,Carter-Clark,True
+P00550,War,"Gentry, Long and Harmon",True
+P00551,High,Cooper-Wright,False
+P00552,Time,Murphy Group,True
+P00553,Name,Pacheco PLC,False
+P00554,Close,"Morales, Delacruz and Rodriguez",True
+P00555,Candidate,"Parker, Guzman and Sutton",False
+P00556,Ago,"Booker, Murillo and Miller",True
+P00557,Firm,"Brown, Reynolds and Barber",True
+P00558,Simply,"Johnson, Park and Fields",True
+P00559,Sound,Martinez-Farley,False
+P00560,Necessary,Garcia-Ball,False
+P00561,Reason,Adams-Miller,False
+P00562,If,Castillo-Smith,True
+P00563,Too,"Wagner, Terry and Garrett",True
+P00564,Billion,"Terrell, Butler and Caldwell",False
+P00565,Reason,Knight Inc,False
+P00566,That,Levine-Dougherty,False
+P00567,Different,Crawford-Blanchard,True
+P00568,Century,Miller PLC,True
+P00569,Pressure,Davidson-Myers,True
+P00570,Officer,Ortiz-Hughes,True
+P00571,Into,"Allen, Reed and Farley",False
+P00572,Rate,Wilkins Group,True
+P00573,Company,Gardner-Vaughan,False
+P00574,Letter,Allison LLC,False
+P00575,Partner,"Collier, White and Anderson",False
+P00576,He,Ferguson Ltd,True
+P00577,Expect,Morris Ltd,False
+P00578,Decision,Sparks-Khan,True
+P00579,Sound,Smith-Murphy,False
+P00580,Seat,"Yoder, Wilkinson and Mills",False
+P00581,Yeah,Garcia Inc,False
+P00582,Picture,Parks Inc,True
+P00583,Several,Reyes and Sons,True
+P00584,Respond,Black PLC,True
+P00585,Each,Perry Ltd,False
+P00586,Either,Campbell Group,True
+P00587,Shake,Wilson-Weaver,False
+P00588,Leader,Thomas Inc,True
+P00589,Hospital,Ortiz-Rodriguez,False
+P00590,Fund,Price-Perez,True
+P00591,Yet,Burns-Hendrix,True
+P00592,Base,Hernandez PLC,True
+P00593,Low,Carter-Gibson,False
+P00594,When,Jones PLC,True
+P00595,Relationship,"Jennings, Lucas and Neal",False
+P00596,Beat,"Fletcher, Garcia and Jackson",False
+P00597,Current,Sullivan-Kemp,True
+P00598,Check,"Levine, Smith and Peters",True
+P00599,Test,Mcgee-Garza,True
+P00600,Computer,Calhoun-Hall,True
+P00601,Administration,"Alvarez, Dixon and Griffin",False
+P00602,Father,Gray-Holmes,True
+P00603,Among,Scott Group,True
+P00604,Onto,Hamilton-Huerta,False
+P00605,Herself,Roberts LLC,True
+P00606,Cost,"Peterson, Gamble and Crawford",True
+P00607,Woman,Torres and Sons,False
+P00608,Pattern,"Clark, Moore and Murphy",False
+P00609,Someone,Patterson Group,True
+P00610,Eat,"Silva, Johnson and Gomez",True
+P00611,Letter,"Lopez, Blackburn and Ross",True
+P00612,Sort,Smith-Fletcher,False
+P00613,Imagine,"Wright, Pitts and Watkins",True
+P00614,You,King Group,True
+P00615,View,"Smith, Turner and Carroll",False
+P00616,Behavior,Ramirez-Fox,False
+P00617,Entire,Turner Inc,True
+P00618,Company,"Jones, Parks and Garcia",False
+P00619,Nothing,"Hanson, Flores and Thompson",True
+P00620,Answer,"Lopez, Brooks and Santana",True
+P00621,Work,Turner PLC,False
+P00622,Social,Johnson Group,True
+P00623,Hit,Hernandez-Smith,False
+P00624,Serve,Ray-Spears,True
+P00625,Same,"Whitney, Johnson and Haas",True
+P00626,One,"Dean, Johnson and Nelson",True
+P00627,Which,Mitchell-Beck,False
+P00628,Science,Wells Ltd,True
+P00629,Public,"Barron, Mueller and Palmer",True
+P00630,Team,Vasquez-Butler,True
+P00631,Investment,Bond-Davis,False
+P00632,Enjoy,Gibson PLC,True
+P00633,Everything,"Hampton, Lopez and Gray",True
+P00634,Main,"Jones, Orr and Miller",True
+P00635,Official,Pittman-Berger,False
+P00636,Fire,Dodson-Warren,True
+P00637,Possible,"Brennan, Powell and Byrd",True
+P00638,Establish,Diaz-Friedman,False
+P00639,Speech,Bruce Inc,True
+P00640,Foreign,Jackson-Jordan,False
+P00641,Edge,"Romero, Reeves and Ramos",False
+P00642,And,Wood-Graham,False
+P00643,Happen,Diaz Inc,False
+P00644,Court,Wall-Gomez,False
+P00645,Less,Jenkins LLC,True
+P00646,Experience,"Rubio, Jackson and Jordan",True
+P00647,Stand,Brown and Sons,True
+P00648,Your,Powell-Gibson,False
+P00649,Analysis,"Jones, Kelley and Dennis",False
+P00650,Size,"Baker, Thomas and Jones",True
+P00651,Get,"Matthews, May and Snyder",False
+P00652,Character,Turner-Walsh,False
+P00653,Later,Edwards and Sons,False
+P00654,Second,"Soto, Rodriguez and Reed",True
+P00655,Improve,"Ellis, Morris and Black",False
+P00656,Environmental,Jones and Sons,False
+P00657,Must,Williams LLC,False
+P00658,Movement,"Farmer, Miller and Hall",True
+P00659,Very,Robles-Rodriguez,True
+P00660,Mean,"Rose, Richards and Holmes",True
+P00661,Community,"Bell, Reynolds and Johnson",False
+P00662,Firm,Zuniga LLC,False
+P00663,Into,Escobar-Marshall,True
+P00664,Year,Gonzales and Sons,True
+P00665,Foreign,"Hunt, Goodman and Gibson",False
+P00666,Indeed,Singleton-Porter,False
+P00667,Surface,Khan-Brooks,False
+P00668,Eye,Johnson-Barber,True
+P00669,According,Carter-Beasley,False
+P00670,Service,Horn-Kim,True
+P00671,Put,Howell-Dennis,True
+P00672,Myself,Weiss PLC,True
+P00673,Why,Contreras Ltd,False
+P00674,Method,Petty and Sons,False
+P00675,Best,Rush-Avila,True
+P00676,Field,"Baldwin, Santos and Porter",False
+P00677,Benefit,"Gonzalez, Romero and Mcgee",True
+P00678,Here,Fowler PLC,False
+P00679,Smile,Hogan-Gonzales,True
+P00680,First,"Young, Short and Hall",True
+P00681,Pretty,"Fox, Hooper and Gilmore",True
+P00682,Side,"Williams, Garner and West",True
+P00683,Structure,Oliver PLC,False
+P00684,Morning,Scott-Johnson,True
+P00685,Right,"Johnson, Fletcher and Bradley",False
+P00686,Reveal,Rodgers-Brown,True
+P00687,Fish,"Long, Stevens and Combs",True
+P00688,Large,Miller-Hart,False
+P00689,Court,Carson-Gardner,False
+P00690,Attack,Norris-Bradshaw,False
+P00691,Partner,Huynh-Alvarez,True
+P00692,Environment,Stevens PLC,False
+P00693,Citizen,Wood Ltd,False
+P00694,Require,Cohen Inc,True
+P00695,Yourself,Williams Group,False
+P00696,Their,Johnson-Garcia,False
+P00697,Whether,Edwards-Garcia,True
+P00698,Partner,Peters-Richard,True
+P00699,True,"Beck, Montgomery and Wright",False
+P00700,Share,Wilson-Scott,False
+P00701,Challenge,Stein-Smith,False
+P00702,Trip,Stanley PLC,True
+P00703,Sea,"Juarez, Tucker and Cook",False
+P00704,Professor,Deleon-Patel,False
+P00705,Agreement,Estrada Group,True
+P00706,News,"Wagner, Gonzalez and Robinson",True
+P00707,Scene,Yoder-Guerrero,False
+P00708,Money,Smith and Sons,False
+P00709,None,"Allen, Booker and Williams",True
+P00710,Process,"Johnson, Smith and Terrell",False
+P00711,General,Phelps Inc,True
+P00712,Smile,"Jackson, Dean and Miles",True
+P00713,Someone,"Carr, Ibarra and Little",True
+P00714,Free,"Barr, White and Jensen",False
+P00715,Building,Waters-Rose,True
+P00716,West,Copeland-Williams,True
+P00717,Seek,Myers-Tran,True
+P00718,Four,"Davis, Jones and Baird",True
+P00719,Issue,Thomas LLC,True
+P00720,Know,Anderson-Walker,False
+P00721,Among,"Campbell, Washington and Willis",True
+P00722,Money,Lee Group,False
+P00723,Avoid,Stevens LLC,False
+P00724,Sign,Ford-Phillips,False
+P00725,Specific,Clark-Hernandez,True
+P00726,Treat,"Hughes, Hayes and Taylor",True
+P00727,Dog,"Williams, Mack and Clark",False
+P00728,Hundred,Green and Sons,True
+P00729,Late,Sherman and Sons,True
+P00730,Drive,Hoffman Inc,True
+P00731,Window,Mullins-Johns,True
+P00732,Home,Hancock Inc,True
+P00733,Include,"Stewart, Ingram and White",True
+P00734,Turn,Castro Ltd,True
+P00735,Political,Gray-Garrett,True
+P00736,Indeed,"Baldwin, Weeks and Maynard",True
+P00737,Attention,"Mora, Alvarez and Black",False
+P00738,Standard,Harris and Sons,False
+P00739,Play,Richardson Ltd,True
+P00740,Individual,"Thomas, Rodriguez and Perry",True
+P00741,At,"Russell, Irwin and Knight",False
+P00742,Police,"Moore, Cochran and Tucker",False
+P00743,According,"Sanchez, Fernandez and Bell",False
+P00744,Also,"Allen, Williams and Baird",True
+P00745,Place,Wade PLC,False
+P00746,Plan,Hill-Bryant,False
+P00747,Include,"Richardson, Glass and Aguilar",False
+P00748,Discover,Huffman PLC,True
+P00749,Car,Davis-Avery,False
+P00750,Some,Green Group,True
+P00751,While,Waters Group,True
+P00752,Difficult,"Avery, Adams and Cook",False
+P00753,Store,"Hudson, Hernandez and Sanders",True
+P00754,I,"Hansen, Peterson and Brown",True
+P00755,Nice,Hart Ltd,False
+P00756,Continue,Roberts-Grant,False
+P00757,Interview,"Jackson, Donovan and Michael",True
+P00758,Financial,Gray-Wilson,False
+P00759,Civil,Edwards Inc,True
+P00760,I,Davenport-Smith,True
+P00761,Summer,Garrison-Miller,True
+P00762,Right,Cain Group,True
+P00763,Home,Mcdowell PLC,True
+P00764,Couple,Johnson Ltd,False
+P00765,Property,"Wong, Gray and Rodriguez",False
+P00766,Important,Davis and Sons,True
+P00767,Nice,Olson-Short,True
+P00768,Set,Garcia-Huerta,False
+P00769,Health,"Nguyen, Edwards and Brown",False
+P00770,Listen,"Anderson, Stewart and May",True
+P00771,Develop,Keith Group,False
+P00772,Or,Atkinson LLC,True
+P00773,Second,Armstrong PLC,False
+P00774,Visit,Wilson LLC,True
+P00775,Office,"Smith, Melendez and Henderson",False
+P00776,Head,"Mosley, Pena and Moreno",False
+P00777,Old,Ramirez-Romero,False
+P00778,Manage,"Schmidt, James and Spencer",False
+P00779,Big,Chandler-Smith,False
+P00780,Very,"Allen, Williams and Thompson",True
+P00781,Democratic,Santos LLC,True
+P00782,Small,Bolton-Sawyer,True
+P00783,Radio,Ward-Smith,True
+P00784,Approach,White and Sons,False
+P00785,Organization,"Perez, West and Weeks",False
+P00786,Interesting,Thomas-Russell,True
+P00787,By,Pena-Rogers,False
+P00788,Next,Rivera and Sons,False
+P00789,Cup,Smith-Smith,True
+P00790,Mention,Hunter and Sons,True
+P00791,Middle,"Lindsey, Hopkins and Arnold",True
+P00792,Guy,"Gonzalez, Bishop and Rubio",False
+P00793,Range,Simon-Dorsey,False
+P00794,After,Heath-Graves,True
+P00795,Accept,Barnett-Mcmahon,True
+P00796,Note,Taylor Ltd,False
+P00797,Network,Gonzales-Castillo,True
+P00798,Make,Rios-Romero,False
+P00799,Explain,Crawford Group,False
+P00800,Theory,Sims-Hawkins,True
+P00801,Financial,"Hatfield, Cole and Warner",True
+P00802,Defense,Esparza LLC,False
+P00803,Force,Jordan Ltd,False
+P00804,Else,Brown-Wolf,True
+P00805,Gas,Nelson-Barajas,False
+P00806,Nature,"Huber, Hensley and Hayden",False
+P00807,Really,"Burns, Olsen and Jacobs",False
+P00808,Still,Shields-Vaughn,False
+P00809,Soldier,Brown Group,True
+P00810,Mr,Todd-Morton,False
+P00811,Space,"Oliver, Roberson and Atkinson",True
+P00812,Enough,"Ryan, Patterson and Davis",False
+P00813,Clearly,"Howard, Swanson and Cortez",False
+P00814,Wide,Cruz and Sons,False
+P00815,Laugh,Avila and Sons,True
+P00816,Every,"Parker, Carroll and Williams",True
+P00817,Nothing,Williams LLC,False
+P00818,Wish,Tyler LLC,False
+P00819,Give,"Mathis, Williams and Rivera",False
+P00820,Activity,Burke PLC,True
+P00821,Argue,Evans LLC,True
+P00822,Production,Holmes PLC,True
+P00823,Really,"Mullins, Evans and Grant",True
+P00824,Picture,Meza-Morrison,True
+P00825,Hold,Rangel Group,False
+P00826,Summer,Smith and Sons,False
+P00827,Social,Ruiz Ltd,False
+P00828,Seem,Warner Inc,True
+P00829,Stay,Bennett-Taylor,True
+P00830,Capital,Mcdonald LLC,False
+P00831,Majority,"Singleton, Mathis and Davila",False
+P00832,Production,Mcdaniel-Jackson,True
+P00833,Opportunity,Wallace-Reed,True
+P00834,May,"Smith, Williams and Powell",True
+P00835,Should,Torres-Ramos,True
+P00836,Fine,Pollard-Key,False
+P00837,Growth,Randolph-King,True
+P00838,Assume,"Johnson, Rogers and Marsh",True
+P00839,Traditional,Davis LLC,True
+P00840,Including,Kelly PLC,False
+P00841,However,"Hansen, Michael and Powell",False
+P00842,Often,Gallegos-Jimenez,False
+P00843,Investment,"Tyler, Thornton and Lopez",False
+P00844,Water,Rogers Ltd,False
+P00845,Book,Foster-Williams,False
+P00846,Can,"Cook, Carpenter and Rodriguez",False
+P00847,Might,Clay-Chambers,True
+P00848,Car,Harris Ltd,True
+P00849,Project,Barrett and Sons,True
+P00850,Worker,Andrade and Sons,True
+P00851,Friend,Bell Ltd,False
+P00852,Detail,Miller Ltd,False
+P00853,Thousand,"Hill, King and Walker",False
+P00854,Develop,Small-Martin,False
+P00855,Ask,Wright PLC,True
+P00856,Want,Singh-Stewart,False
+P00857,Police,"Smith, Lamb and Hernandez",False
+P00858,Woman,"Cameron, Oneal and Ware",False
+P00859,Foreign,"Adams, Hahn and Barnes",True
+P00860,Off,Taylor PLC,False
+P00861,Law,Gill-Jones,False
+P00862,Activity,Haley LLC,True
+P00863,Appear,Sanchez-Roman,True
+P00864,Become,Zimmerman Group,False
+P00865,Dark,Fischer-Bradley,False
+P00866,Authority,Smith and Sons,False
+P00867,Officer,Johnson and Sons,True
+P00868,Another,Bennett-Powers,False
+P00869,Their,Cunningham Group,False
+P00870,Push,"Montgomery, Carr and Arnold",True
+P00871,Change,Mcdonald-Harvey,False
+P00872,Parent,Barry-Harris,True
+P00873,Near,"Stanley, Anderson and Schmidt",True
+P00874,Get,Mcdowell-Medina,False
+P00875,Discussion,"Miller, Ray and Martinez",False
+P00876,Really,"Mata, Snyder and Jones",True
+P00877,Sea,Butler-Brewer,False
+P00878,Light,Roy PLC,True
+P00879,Memory,"Ochoa, Walsh and King",True
+P00880,Thought,"Jackson, Hernandez and Carpenter",True
+P00881,Past,Robinson-Hayden,False
+P00882,College,Bradley Ltd,True
+P00883,Include,Baker-Palmer,False
+P00884,Suffer,Nguyen Ltd,False
+P00885,People,Osborn LLC,False
+P00886,Hold,Bray-Rivera,False
+P00887,Beyond,"Mcfarland, Thomas and Hoffman",False
+P00888,Congress,Moore-Armstrong,True
+P00889,Anything,"Perkins, Brown and Haney",False
+P00890,Company,Logan-Hall,True
+P00891,History,Robertson Ltd,False
+P00892,Thought,Green-Stone,True
+P00893,Success,"Cooper, Martinez and Khan",False
+P00894,Lot,Johnson-Hunt,False
+P00895,Between,"Turner, Mosley and Clements",False
+P00896,Per,Michael-Moore,False
+P00897,Head,Brown and Sons,True
+P00898,Baby,Estrada Group,False
+P00899,Provide,"Weiss, Reed and Jones",False
+P00900,Deal,"Parker, Williams and Morales",False
+P00901,Age,"Taylor, Waller and Collins",False
+P00902,Responsibility,"Lawrence, Perez and Olson",True
+P00903,Wear,"Clay, Weaver and Kramer",False
+P00904,Once,Mcgrath-Morris,True
+P00905,Different,Fletcher PLC,True
+P00906,Crime,Anderson PLC,True
+P00907,Blue,Peters Ltd,False
+P00908,Pm,Dunn-Medina,True
+P00909,Learn,Jones-Wagner,False
+P00910,General,"Brown, Terrell and Gonzalez",False
+P00911,Run,Brown-Douglas,True
+P00912,Likely,"Miller, Nguyen and Morris",False
+P00913,Surface,Hoffman LLC,False
+P00914,Popular,Hill-Rivers,True
+P00915,Page,"Smith, Robbins and Miller",False
+P00916,Natural,"Snyder, Brown and Wilson",False
+P00917,Right,"Davis, Dawson and Miller",True
+P00918,Point,"Rodriguez, Olsen and Lucero",True
+P00919,Authority,Miller Ltd,True
+P00920,Long,"Hall, Munoz and Randall",True
+P00921,Year,"Wilkinson, Green and Cardenas",False
+P00922,Activity,Lewis and Sons,False
+P00923,Behind,"Barker, Rodriguez and Grant",False
+P00924,Road,Franklin-Martin,True
+P00925,Foreign,"Donovan, Villegas and Foster",True
+P00926,Standard,Harrison PLC,True
+P00927,If,"Lowe, Haas and Rivera",True
+P00928,Apply,"Cooper, Lawrence and Nguyen",False
+P00929,Future,Moody-Howard,True
+P00930,Us,"Williams, Farley and Gomez",False
+P00931,Stand,Maldonado-Neal,False
+P00932,Why,Garza-Coleman,False
+P00933,Center,"Mills, Johnson and Wells",True
+P00934,Necessary,Williams and Sons,True
+P00935,Account,Morgan-Stephens,False
+P00936,Again,"Jennings, Lynch and Mitchell",True
+P00937,Owner,Williams-Fry,True
+P00938,Tax,"Warren, Branch and Scott",False
+P00939,Image,Conner-Wilson,True
+P00940,Itself,"Rose, Mcdonald and French",True
+P00941,Production,"Collins, Huynh and Lewis",False
+P00942,Financial,"Hart, Rice and Austin",True
+P00943,Indicate,Griffin PLC,True
+P00944,Opportunity,"Herring, Bernard and Wilkinson",False
+P00945,Throw,"Hunter, Gomez and Day",False
+P00946,Later,"Moore, Bruce and Butler",False
+P00947,Get,"Johnson, Taylor and Gray",True
+P00948,Treat,Davis-Byrd,False
+P00949,That,"Gillespie, Dougherty and Mcfarland",False
+P00950,Treat,Robinson-Malone,True
+P00951,Analysis,"Hogan, Vargas and Perry",False
+P00952,Fire,"Bauer, Johnson and Weaver",True
+P00953,Hair,"Weber, Edwards and Harris",True
+P00954,Create,"Villarreal, Wilson and Thomas",True
+P00955,Leader,Jordan Group,False
+P00956,Mind,"Barnett, Henderson and Fischer",True
+P00957,Deal,Weber-Terry,True
+P00958,Him,Brown and Sons,False
+P00959,Military,Smith and Sons,False
+P00960,What,"Newman, Allen and Freeman",True
+P00961,Provide,Harrison Inc,True
+P00962,Recently,"Mora, Anderson and Fuller",False
+P00963,Human,Brown-Ball,False
+P00964,Article,West-Kirk,False
+P00965,Society,Davidson-Graham,True
+P00966,Gun,Glover and Sons,False
+P00967,Heavy,Barnett-Gray,False
+P00968,Cover,"Andrade, Estrada and Brown",True
+P00969,Human,"Nelson, Schwartz and Day",True
+P00970,Specific,Thomas and Sons,False
+P00971,Rest,"Miller, Allen and Keller",True
+P00972,Real,Barnes-Oliver,False
+P00973,Economy,Alexander-Carter,False
+P00974,Difference,Moore-Franklin,True
+P00975,Man,Rodriguez PLC,False
+P00976,Remain,"Jackson, Smith and Ford",False
+P00977,Develop,Martinez-Cabrera,True
+P00978,Site,Stevens PLC,True
+P00979,Ready,Hull-Atkins,False
+P00980,Successful,Lewis-Cochran,True
+P00981,Worry,Richard PLC,True
+P00982,Rock,Williams-Hall,False
+P00983,Science,Boyle-Holland,False
+P00984,There,"Alexander, Kelly and Johnson",False
+P00985,Station,Hale PLC,True
+P00986,Stage,"Reyes, Meyer and Roberts",True
+P00987,Husband,White PLC,False
+P00988,Tv,"Stephens, Villegas and Miller",True
+P00989,Available,Roberts Inc,True
+P00990,Citizen,"Perry, Charles and Brown",False
+P00991,Black,Hayes Group,False
+P00992,Exist,Villa-Green,True
+P00993,Fast,White Group,False
+P00994,Loss,Davis-Ortega,False
+P00995,Guess,Jensen and Sons,False
+P00996,Cell,Olson Ltd,False
+P00997,Occur,Castro-Peterson,False
+P00998,Everyone,Brennan-Fields,True
+P00999,Mean,"Jones, Diaz and Medina",True
