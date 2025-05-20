@@ -1,5 +1,3 @@
-# main.py
-
 import os
 import time
 
@@ -21,14 +19,13 @@ RAW_DIR  = "data/raw"
 PROC_DIR = "data/processed"
 
 def safe_run(fn, *args, desc=""):
-    """Run fn(*args), catch and log any exception, and return None on failure."""
     start = time.perf_counter()
     try:
         result = fn(*args)
         print(f"[🕒] {desc} took {time.perf_counter() - start:.2f}s")
         return result
     except Exception as e:
-        print(f"[⚠️] {desc} FAILED after {time.perf_counter() - start:.2f}s: {e}")
+        print(f"{desc} FAILED after {time.perf_counter() - start:.2f}s: {e}")
         return None
 
 def main():
@@ -36,63 +33,60 @@ def main():
     os.makedirs(PROC_DIR, exist_ok=True)
 
     # 1) Customers
-    df_cust = safe_run(generate_customers, 1000,
+    df_cust = safe_run(generate_customers, 10000,
                        desc="Generate 1 000 customers")
     if df_cust is None:
-        raise RuntimeError("Critical: customers generation failed")
+        raise RuntimeError("Customers generation failed")
 
-    # 2) Products (chunked Kaggle download / fallback to synthetic)
-    df_prod = None
-    for chunk_size in (1000, 500, 200, 100):
-        df = safe_run(extract_and_generate_products, chunk_size,
-                      desc=f"Extract/generate {chunk_size} products")
-        # Got a valid DataFrame?  Break out.
-        if df is not None and not df.empty:
-            df_prod = df
-            break
+    # 2) Products from CSV file
+    df_prod = safe_run(extract_and_generate_products, 1000,
+                       desc="Extract/generate 1,000 products")
+    if df_prod is None or df_prod.empty:
+        print("Extract failed, falling back to synthetic products.")
+        df_prod = extract_and_generate_products(5000)
 
     if df_prod is None:
-        print("[⚠️] All chunk sizes failed. Falling back to 50 synthetic products.")
-        df_prod = extract_and_generate_products(50)
+        print("All chunk sizes failed. Falling back to 50 synthetic products.")
+        df_prod = extract_and_generate_products(5000)
 
     # 3) Shops from products
-    df_shops = safe_run(transform_products_and_shops, df_prod, 500,
+    df_shops = safe_run(transform_products_and_shops, df_prod, 5000,
                         desc="Transform products & generate 500 shops")
     if df_shops is None:
-        print("[⚠️] Shop transformation failed—skipping shop-product linking.")
+        print("Shop transformation failed—skipping shop-product linking.")
     else:
         # 4) Shop-Product links
-        safe_run(generate_shop_product, 5000,
+        safe_run(generate_shop_product, 50000,
                  desc="Generate 5 000 shop_product links")
 
     # 5) Addresses
     safe_run(generate_addresses, desc="Generate 1 000 addresses")
 
-    # 6) Payments & Financials
+    # 6) Payments and related
     safe_run(generate_payments, desc="Generate payments, wallets, ccards & transactions")
 
     # 7) Orders & Logistics
-    safe_run(generate_orders, 5000,
-             desc="Generate 5 000 orders & 50 logistics")
+    safe_run(generate_orders, 25000,
+             desc="Generate 5 000 orders & 5000 logistics")
 
     # 8) Reviews
-    safe_run(generate_reviews, 2000,
+    safe_run(generate_reviews, 15000,
              desc="Generate 2 000 product & shop reviews")
 
     # 9) Affiliates, Collections, Lists & SNA
-    safe_run(generate_lists_and_collections, 2000,
+    safe_run(generate_lists_and_collections, 15000,
              desc="Generate 2 000 affiliates, collections, lists & SNA entries")
 
     # 10) Categories, Variants, Premium
-    safe_run(generate_categories, 3,
+    safe_run(generate_categories, 5,
              desc="Generate 1–3 categories per product")
-    safe_run(generate_variants, 2,
+    safe_run(generate_variants, 5,
              desc="Generate up to 2 variants per product")
-    safe_run(generate_premium, 0.2,
+    safe_run(generate_premium, 0.4,
              desc="Generate premium subs for 20% of customers")
 
     # 11) Load into PostgreSQL
-    print("\n[⏳] Loading all CSVs into PostgreSQL…")
+    print("\nLoading all CSVs into PostgreSQL…")
     load_start = time.perf_counter()
     tables = [
       ("CUSTOMER",       "customers.csv"),
