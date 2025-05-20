@@ -80,13 +80,13 @@ CREATE TABLE IF NOT EXISTS public."LOGISTICS"
     CONSTRAINT "LOGISTICS_pkey" PRIMARY KEY (id)
 );
 
-CREATE TABLE IF NOT EXISTS public."ORDER"
+CREATE TABLE IF NOT EXISTS public."customer_orders"
 (
     u_id character(9) COLLATE pg_catalog."default" NOT NULL,
     log_id character(9) COLLATE pg_catalog."default" NOT NULL,
     sp_id character(9) COLLATE pg_catalog."default" NOT NULL,
     sp_shop_id character(9) COLLATE pg_catalog."default" NOT NULL,
-    order_id character(9) COLLATE pg_catalog."default" NOT NULL,
+    customer_orders_id character(9) COLLATE pg_catalog."default" NOT NULL,
     status character varying(20) COLLATE pg_catalog."default" NOT NULL,
     date date NOT NULL,
     address character varying(255) COLLATE pg_catalog."default" NOT NULL,
@@ -96,7 +96,7 @@ CREATE TABLE IF NOT EXISTS public."ORDER"
     refer_id character(9) COLLATE pg_catalog."default",
     coupon character varying(255) COLLATE pg_catalog."default",
     amount integer NOT NULL DEFAULT 1,
-    CONSTRAINT "PK" PRIMARY KEY (u_id, log_id, sp_id, sp_shop_id, order_id)
+    CONSTRAINT "PK" PRIMARY KEY (u_id, log_id, sp_id, sp_shop_id, customer_orders_id)
 );
 
 CREATE TABLE IF NOT EXISTS public."PAYMENT"
@@ -263,42 +263,42 @@ ALTER TABLE IF EXISTS public."LISTS"
     ON DELETE CASCADE;
 
 
-ALTER TABLE IF EXISTS public."ORDER"
+ALTER TABLE IF EXISTS public."customer_orders"
     ADD CONSTRAINT "ADDRESS" FOREIGN KEY (address, u_id)
     REFERENCES public."ADDRESSES" (address, u_id) MATCH FULL
     ON UPDATE CASCADE
     ON DELETE RESTRICT;
 
 
-ALTER TABLE IF EXISTS public."ORDER"
+ALTER TABLE IF EXISTS public."customer_orders"
     ADD CONSTRAINT "CUSTOMERKEY" FOREIGN KEY (u_id)
     REFERENCES public."CUSTOMER" (id) MATCH FULL
     ON UPDATE CASCADE
     ON DELETE CASCADE;
 
 
-ALTER TABLE IF EXISTS public."ORDER"
+ALTER TABLE IF EXISTS public."customer_orders"
     ADD CONSTRAINT "LOGISTIC_ID" FOREIGN KEY (log_id)
     REFERENCES public."LOGISTICS" (id) MATCH FULL
     ON UPDATE CASCADE
     ON DELETE CASCADE;
 
 
-ALTER TABLE IF EXISTS public."ORDER"
+ALTER TABLE IF EXISTS public."customer_orders"
     ADD CONSTRAINT "PAYMENT" FOREIGN KEY (payer_id, pay_id)
     REFERENCES public."PAYMENT" (p_u_id, p_id) MATCH SIMPLE
     ON UPDATE CASCADE
     ON DELETE RESTRICT;
 
 
-ALTER TABLE IF EXISTS public."ORDER"
+ALTER TABLE IF EXISTS public."customer_orders"
     ADD CONSTRAINT "REFFERAL" FOREIGN KEY (refer_id)
     REFERENCES public."AFFILIATE" (aff_code) MATCH SIMPLE
     ON UPDATE SET NULL
     ON DELETE SET NULL;
 
 
-ALTER TABLE IF EXISTS public."ORDER"
+ALTER TABLE IF EXISTS public."customer_orders"
     ADD CONSTRAINT "SPID" FOREIGN KEY (sp_id, sp_shop_id)
     REFERENCES public."SHOP_PRODUCT" (p_id, s_id) MATCH FULL
     ON UPDATE NO ACTION
