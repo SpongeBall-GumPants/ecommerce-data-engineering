@@ -86,7 +86,7 @@ CREATE TABLE IF NOT EXISTS public."customer_orders"
     log_id character(9) COLLATE pg_catalog."default" NOT NULL,
     sp_id character(9) COLLATE pg_catalog."default" NOT NULL,
     sp_shop_id character(9) COLLATE pg_catalog."default" NOT NULL,
-    customer_orders_id character(9) COLLATE pg_catalog."default" NOT NULL,
+    order_id character(9) COLLATE pg_catalog."default" NOT NULL,
     status character varying(20) COLLATE pg_catalog."default" NOT NULL,
     date date NOT NULL,
     address character varying(255) COLLATE pg_catalog."default" NOT NULL,
@@ -96,7 +96,7 @@ CREATE TABLE IF NOT EXISTS public."customer_orders"
     refer_id character(9) COLLATE pg_catalog."default",
     coupon character varying(255) COLLATE pg_catalog."default",
     amount integer NOT NULL DEFAULT 1,
-    CONSTRAINT "PK" PRIMARY KEY (u_id, log_id, sp_id, sp_shop_id, customer_orders_id)
+    CONSTRAINT "PK" PRIMARY KEY (u_id, log_id, sp_id, sp_shop_id, order_id)
 );
 
 CREATE TABLE IF NOT EXISTS public."PAYMENT"
