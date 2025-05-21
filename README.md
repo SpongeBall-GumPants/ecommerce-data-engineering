@@ -148,12 +148,17 @@ This repository contains the ETL pipeline for the eCommerce project, designed to
 ## Project Structure
 
 
-/data/                         Contains raw and processed data
-/sql/                            SQL scripts for schema creation
-/etl/                            Python ETL scripts
-    main.py              Main script for ETL
-/docs/                         Documentation
-    README.md       Project README file
+ecommerce-data-engineering/    
+├── data/                       
+│   ├── raw/                     
+│   ├── processed/                
+├── docs/                       
+├── etl/                         
+│   ├── __pycache__/     
+├── sql/                       
+├── main.py                  
+├── README.md                      
+
 ---
 
 ## Contributing
