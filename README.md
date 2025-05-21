@@ -45,7 +45,7 @@ This repository contains the ETL pipeline for the eCommerce project, designed to
 
 ---
 ## ETL Diagram
-![ETL Process](docs/ETL_Pipeline.png)  
+![ETL Process](docs/ETL_Pipeline_Diagram.png)  
 ## ETL Process
 1. **Generate**: Synthetic data is generated using the **Faker** library in Python for tables.
 2. **Extract**: 
