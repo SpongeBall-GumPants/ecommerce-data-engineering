@@ -64,7 +64,7 @@ This repository contains the ETL pipeline for the eCommerce project, designed to
 
 1. Clone the repository:
     
-    `git clone https://github.com/yourusername/data-engineering-pipeline.git cd data-engineering-pipeline`
+    `git clone https://github.com/SpongeBall-GumPants/data-engineering-pipeline.git cd data-engineering-pipeline`
     
 2. Set up PostgreSQL Database:
     
